@@ -8,3 +8,9 @@ Also, if I am working on a project from different devices, then using a remote r
 Basically, the remote repository is not always the latest version.
 
 Usually, we would like make modifications locally and want to push changes to the remote repository. If Git automatically stay up-to-date with the remote, the local changes will disappear when sync with the remote.
+
+
+###**Describe the differences between forks, clones, and branches. When would you use one instead of another?**
+Forks and clones are similar to some extent. They both operate on repositories and can make a copy of another whole repository. But fork is invented by GitHub and used only in GitHub while clone is an operation of Git. Branches are totally different from them because branches operate on commits not repositories.
+
+Forks are mainly used in GitHub when I want to get a copy of other people's project and clones are used when someone want to get a local copy from a remote repository or a local repository. As for branches, they are used to create different paths for a project so that if I want to try something new, the main path or branch wouldn't be affected.
