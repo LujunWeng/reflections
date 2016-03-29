@@ -17,3 +17,6 @@ Forks are mainly used in GitHub when I want to get a copy of other people's proj
 
 ###**What is the benefit of having a copy of the last known state of the remote stored locally?**
 The most important benefit is that it provides us with the opportunity to compare the local version and the latest remote one, so we can make a decision of how to deal with differences.
+
+###**How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
+Actually, I don't even think about collaborating with others. But I guess it would be quite harder without using Git or GitHub, mostly because we have no way to keep track of each modifications and we would have tough time to merge our different versions into one version. 
