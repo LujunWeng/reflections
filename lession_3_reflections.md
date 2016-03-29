@@ -20,3 +20,6 @@ The most important benefit is that it provides us with the opportunity to compar
 
 ###**How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
 Actually, I don't even think about collaborating with others. But I guess it would be quite harder without using Git or GitHub, mostly because we have no way to keep track of each modifications and we would have tough time to merge our different versions into one version. 
+
+###**When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?**
+Making changes in master is more direct and simple. You just make some changes and commit all things. Everything is find. But as a project get more complicated, it might be pretty hard to manage the project in just a branch, master. For example, if we want to try new features, it would be better to try it in a new branch rather than in master directly, because doing this would make commit history of master messy and make the project hard to follow.
